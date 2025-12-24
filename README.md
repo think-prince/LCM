@@ -1,0 +1,2 @@
+# LCM
+Code for LeastCommonMultiple
